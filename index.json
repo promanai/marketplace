@@ -1,0 +1,25 @@
+{
+  "generatedAt": "2026-02-19T23:46:34.776Z",
+  "baseUrl": "https://raw.githubusercontent.com/promanai/marketplace/main/",
+  "packages": [
+    {
+      "id": "app.safe",
+      "name": "Safe",
+      "type": "app",
+      "latest": "0.1.0",
+      "updatedAt": "2026-02-19T23:46:34.776Z",
+      "versionsCount": 1,
+      "releasedAt": "2026-02-19T23:45:10.980Z",
+      "summary": "PromanOS Safe app.",
+      "description": "PromanOS Mini package for Safe.",
+      "icon": "public/apps/safe/assets/icon.svg",
+      "tags": [
+        "safe",
+        "security"
+      ],
+      "screenshots": [],
+      "repoUrl": "https://github.com/promanai/promanos_mini",
+      "changelog": "Initial GitHub marketplace package."
+    }
+  ]
+}

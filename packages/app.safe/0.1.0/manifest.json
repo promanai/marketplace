@@ -1,0 +1,14 @@
+{
+  "manifestVersion": 1,
+  "id": "app.safe",
+  "type": "app",
+  "name": "Safe",
+  "version": "0.1.0",
+  "releasedAt": "2026-02-19T23:45:10.980Z",
+  "sizeBytes": 13593,
+  "sha256": "092f0f65cc4e0f9ccbcf2eaeed7b51f1a7a6daf1d27826bdf8c5f14075a7a1e3",
+  "files": {
+    "payload": "package.tar.gz",
+    "checksums": "checksums.txt"
+  }
+}
